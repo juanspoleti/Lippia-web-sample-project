@@ -9,7 +9,7 @@
 
 # Getting started
  [Download]: <https://github.com/Crowdar/Lippia-web-sample-project/archive/master.zip>
-- [Download] and unzip the source repository for this guide, or clone it using Git:
+- [Download] and unzip the source repository for this guide, or clone it using Git: 
     ``` $ git clone https://github.com/Crowdar/Lippia-web-sample-project.git ```
 - Go to root directory  
     ``` $ cd lippia-web-sample-project ```
