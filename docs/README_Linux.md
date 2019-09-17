@@ -8,9 +8,9 @@
 + Docker compose 1.24: https://docs.docker.com/compose/install/
 
 # Getting started
- [Download]: <https://bitbucket.org/crowdarautomation/lippia-web-sample-project/get/master.zip>
+ [Download]: <https://github.com/Crowdar/Lippia-web-sample-project/archive/master.zip>
 - [Download] and unzip the source repository for this guide, or clone it using Git:
-    ``` $ git clone https://bitbucket.org/crowdarautomation/lippia-web-sample-project.git ```
+    ``` $ git clone https://github.com/Crowdar/Lippia-web-sample-project.git ```
 - Go to root directory  
     ``` $ cd lippia-web-sample-project ```
 ## Strategies to run
