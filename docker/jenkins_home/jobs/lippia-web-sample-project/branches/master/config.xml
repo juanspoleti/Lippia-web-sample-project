@@ -23,7 +23,7 @@
             <hudson.plugins.git.UserRemoteConfig>
               <name>origin</name>
               <refspec>+refs/heads/*:refs/remotes/origin/*</refspec>
-              <url>https://bitbucket.org/crowdarautomation/lippia-web-sample-project.git</url>
+              <url>https://github.com/Crowdar/Lippia-web-sample-project.git</url>
             </hudson.plugins.git.UserRemoteConfig>
           </userRemoteConfigs>
           <branches class="singleton-list">
