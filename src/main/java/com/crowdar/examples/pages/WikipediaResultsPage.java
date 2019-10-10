@@ -3,7 +3,6 @@ package com.crowdar.examples.pages;
 import com.crowdar.bdd.cukes.SharedDriver;
 import com.crowdar.core.CucumberPageBase;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 
 public class WikipediaResultsPage extends CucumberPageBase {
 
